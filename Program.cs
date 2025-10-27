@@ -10,6 +10,8 @@
         Console.WriteLine("Fuck yeah!");
         Console.WriteLine("Text på branch IsacB");
 
+        Console.WriteLine("ciao");
         Console.WriteLine("ny text från isacB");
+
     }
 }

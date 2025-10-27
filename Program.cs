@@ -11,5 +11,7 @@
 
 
         Console.WriteLine("Jag skapar nya problem!!!");
+
+        Console.WriteLine("Sluta skapa problem!!!");
     }
 }

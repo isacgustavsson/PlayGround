@@ -4,5 +4,7 @@
     {
         Console.Clear();
         Console.WriteLine("Hello, World!");
+
+        Console.WriteLine("Hello guys!");
     }
 }

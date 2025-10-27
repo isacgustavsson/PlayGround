@@ -5,13 +5,14 @@
         Console.Clear();
 
         Console.WriteLine("hello guys!");
-        Console.WriteLine("Fan vad grymma vi ska bli på git nu!!!!!");
+        Console.WriteLine(":))::)::)):");
+        Console.WriteLine("Fan vad grymma vi ska bli på git nu!!");
 
-        Console.WriteLine("Fuck yeaeeeeeeaeh!");
+        Console.WriteLine("Fuck yeeaaaaaaaaaaaaHHHH!");
 
 
-        Console.WriteLine("Jag skapar nya problem!!!");
 
-        Console.WriteLine("Sluta skapa problem!!!");
+        Console.WriteLine("Jag skapar en massa nya problem!!!");
+
     }
 }

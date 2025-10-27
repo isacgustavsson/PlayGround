@@ -9,5 +9,7 @@
 
         Console.WriteLine("Fuck yeah!");
 
+        Console.WriteLine("ciao");
+
     }
 }

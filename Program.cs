@@ -5,10 +5,9 @@
         Console.Clear();
 
         Console.WriteLine("hello guys!");
-        Console.WriteLine("Fan vad grymma vi ska bli på git nu heheheh");
+        Console.WriteLine("Fan vad grymma vi ska bli på git nu!!!!!");
 
-        Console.WriteLine("Fuck yeah!");
-        Console.WriteLine("Text på branch IsacB");
+        Console.WriteLine("Fuck yeaeeeeeeaeh!");
 
 
       Console.WriteLine("Jag skapar problem");   

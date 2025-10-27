@@ -8,6 +8,7 @@
         Console.WriteLine("Fan vad grymma vi ska bli på git nu heheheh");
 
         Console.WriteLine("Fuck yeah!");
+        Console.WriteLine("Text på branch IsacB");
 
     }
 }
